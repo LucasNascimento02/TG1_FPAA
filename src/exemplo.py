@@ -6,7 +6,6 @@ def imprimir_labirinto(labirinto):
         print(' '.join(linha))
 
 def main():
-    # Exemplo de labirinto do projeto
     labirinto = [
         ['S', '0', '1', '0', '0'],
         ['0', '0', '1', '0', '1'],
